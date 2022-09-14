@@ -1,0 +1,9 @@
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\bin\Debug\mon application associe.exe
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\bin\Debug\mon application associe.pdb
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\mon_application_associe.MENU_GENERAL.MENU_GENERAL.resources
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\mon_application_associe.Properties.Resources.resources
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\mon application associe.csproj.GenerateResource.Cache
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\mon application associe.exe
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\mon application associe.pdb
+C:\Users\FATTAH\Documents\Visual Studio 2008\Projects\mon application associe\mon application associe\obj\Debug\mon_application_associe.ARTICLE.LISTE_ARTICLES.resources
